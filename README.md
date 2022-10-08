@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Yuri
 
-<!--
-**VoroninVaycheslav/VoroninVaycheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a LTPU student!
+- 🇷🇺 I'm from Russia, Tomsk
 
-Here are some ideas to get you started:
+### ☎️ Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img alt="usec228 | VK" src="https://img.shields.io/badge/-Vk-2D2F37.svg?logo=vk&style=for-the-badge" />](https://vk.com/usec228)
+[<img alt="usec228 | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge" />](https://t.me/usec228)
+
+<br/>
+<br/>
+<br/>
+<br/>
